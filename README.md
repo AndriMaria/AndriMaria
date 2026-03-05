@@ -22,7 +22,7 @@ Currently open to:data roles, cybersecurity, ux research/design and internships 
 ### 🤙 Fun facts
 
 - I have a cat 🐱
-- Hiking clears my head
+- Hiking clears my mind
 - I can watch an entire series in one weekend and feel no regret
 
 📫 Reach me at: mariaandri200@gmail.com

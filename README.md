@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Maria 👋
 
-<!--
-**AndriMaria/AndriMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at the **University of Patras**, CEID department -- looking for my first professional opportunity.  
+I enjoy working with data — whether that's building backend systems, exploring ML models, or thinking about how technology affects the people who use it.
 
-Here are some ideas to get you started:
+Currently open to:data roles, cybersecurity, ux research/design and internships in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍🔧 What I have worked with
+- **Languages:** Python, Java, PHP, JavaScript,CSS,HTML
+- **Databases:** MySQL
+- **Mobile:** Android (Java)
+- **ML & Data:** TensorFlow, scikit-learn, pandas
+- **Tools:** Git, PyCharm ,Visual Code ,phpStorm
+---
+### 🧐 What I'm exploring right now — always on the build
+
+- **UX Design & Research** — understanding how people interact with technology.
+- **Eye Tracking System** — building an app and analysing gaze data for my thesis using tobii spectrum.
+---
+### 🤙 Fun facts
+
+- I have a cat 🐱
+- Hiking clears my head
+- I can watch an entire series in one weekend and feel no regret
+
+📫 Reach me at: mariaandri200@gmail.com
